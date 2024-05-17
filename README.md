@@ -1,0 +1,1 @@
+# MDE_KQL_Queries
